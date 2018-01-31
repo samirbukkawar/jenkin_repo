@@ -11,6 +11,7 @@ public int j;
 
 String sam;
 		 
+String sam2;
 		return "hi " + message;
 	}
 
