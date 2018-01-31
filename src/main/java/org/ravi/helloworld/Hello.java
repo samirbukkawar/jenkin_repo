@@ -5,7 +5,7 @@ public class Hello {
 	
 	public String displayHelloMessage(String message){
 		 
-		return "hi";
+		return "hi " + message;
 	}
 
 }
